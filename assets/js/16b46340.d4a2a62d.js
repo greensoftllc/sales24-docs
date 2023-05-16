@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkweb=self.webpackChunkweb||[]).push([[134],{2077:o=>{o.exports=JSON.parse('{"title":"Hooks","description":".","slug":"/category/hooks","permalink":"/docs/category/hooks","navigation":{"previous":{"title":"Layout","permalink":"/docs/componets/layout"},"next":{"title":"useApollo","permalink":"/docs/hooks/useApollo"}}}')}}]);
