@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkweb=self.webpackChunkweb||[]).push([[8423],{6751:e=>{e.exports=JSON.parse('{"title":"Core","description":"Core","slug":"/category/core","permalink":"/docs/category/core","navigation":{"previous":{"title":"Components","permalink":"/docs/category/components"},"next":{"title":"Forms","permalink":"/docs/componets/core/forms"}}}')}}]);

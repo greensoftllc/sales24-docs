@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkweb=self.webpackChunkweb||[]).push([[5694],{212:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/sales24-docs/blog/tags/hola","allTagsPath":"/sales24-docs/blog/tags","count":1}')}}]);
